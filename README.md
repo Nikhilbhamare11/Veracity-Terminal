@@ -1,4 +1,5 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Vercity Terminal Project 24-25
+This Project contains News API, MongoDB, Clerk AUTH System and Machine Learning.
 
 ## Getting Started
 
