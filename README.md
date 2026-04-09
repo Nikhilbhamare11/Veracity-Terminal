@@ -1,5 +1,18 @@
 # Vercity Terminal Project 24-25
 This Project contains News API, MongoDB, Clerk AUTH System and Machine Learning.
+To run this project create .env file use this below code...
+
+```NEWS_API_KEY = {Your_API_KEY}
+
+# This below key
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY = {Your_CLERK_SECRET_KEY}
+CLERK_SECRET_KEY = {Your_CLERK_SECRET_KEY}
+
+NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
+NEXT_PUBLIC_CLERK_SIGN_IN_FALLBACK_REDIRECT_URL=/
+NEXT_PUBLIC_CLERK_SIGN_UP_FALLBACK_REDIRECT_URL=/
+
+MONGO_URI=mongodb://localhost:27017/veracityterminal```
 
 ## Getting Started
 
